@@ -10,6 +10,9 @@ public class HelloWorld extends JFrame {
         pack();
     }
 
+    //Hello it's Amelie
+    JLabel lblMensagem2 = new JLabel("Amelie here");
+
     public static void main(String[] args) {
         new HelloWorld().setVisible(true);
     }
