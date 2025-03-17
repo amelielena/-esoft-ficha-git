@@ -4,7 +4,7 @@ public class HelloWorld extends JFrame {
     private JPanel panel1;
     private JLabel IblMessagge;
     private JLabel IblMessagge2;
-    //Petra was here
+    //Petra was here now
 
     public HelloWorld() {
         setContentPane(panel1);
